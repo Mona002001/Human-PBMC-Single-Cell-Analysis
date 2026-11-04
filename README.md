@@ -51,17 +51,13 @@ Clusters were annotated using canonical marker genes and exploratory marker anal
 - Seurat
 - DoubletFinder
 
-## Repository Structure
-
-```text
-Human-PBMC-Single-Cell-Analysis/
-|-- README.md
-|-- .gitignore
-|-- PBMC_scRNAseq_analysis.R
-|-- figures/
-|-- results/
-```
 
 ## Data Source
 
 The dataset is publicly available from 10x Genomics: https://www.10xgenomics.com/datasets
+
+## UMAP Visualization
+
+The UMAP plot shows the distribution of cells across the identified clusters.
+
+![UMAP Clusters](figures/UMAP_clusters.png)
