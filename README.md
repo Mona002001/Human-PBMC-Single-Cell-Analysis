@@ -56,8 +56,4 @@ Clusters were annotated using canonical marker genes and exploratory marker anal
 
 The dataset is publicly available from 10x Genomics: https://www.10xgenomics.com/datasets
 
-## UMAP Visualization
 
-The UMAP plot shows the distribution of cells across the identified clusters.
-
-![UMAP Clusters](figures/UMAP_clusters.png)
